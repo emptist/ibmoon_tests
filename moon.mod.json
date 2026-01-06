@@ -1,0 +1,14 @@
+{
+  "name": "emptist/ibmoon_tests",
+  "version": "0.1.0",
+  "readme": "README.mbt.md",
+  "repository": "https://github.com/emptist/ibmoon_tests",
+  "license": "Apache-2.0",
+  "keywords": [
+    "ib",
+    "trading",
+    "api",
+    "test"
+  ],
+  "description": "Integration tests for IB MoonBit API wrapper"
+}
