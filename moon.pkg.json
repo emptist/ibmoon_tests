@@ -1,8 +1,3 @@
 {
-  "import": [
-    {
-      "path": "../ibmoon",
-      "alias": "ibmoon"
-    }
-  ]
+  "import": []
 }
